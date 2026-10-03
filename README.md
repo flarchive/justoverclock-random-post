@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of justoverclock/random-post.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/random-post) or the [upstream repository](https://github.com/justoverclockl/random-post).
 
-**0** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/justoverclock-random-post/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^1.2.0`
+**4** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/justoverclock-random-post/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-03-17 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-random-post/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-03-18 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-random-post/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-03-23 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-random-post/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-03-23 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-random-post/tree/archive/v0.1.3) |
 
 Catalog entry: [packages/justoverclock-random-post.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-random-post.json)
 
